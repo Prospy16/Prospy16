@@ -51,6 +51,14 @@ My journey into tech started with curiosity and a desire to solve problems using
 * Used a structured relational schema of Patients, Doctors, Admissions, and Risk Factors.
 * Key insights revealed peak admission periods, common risk indicators, and departmental trends.
 
+## 🧑‍💼 HR Analysis (Power BI)
+* Analyzed trends in employee turnover to identify factors contributing to attrition and highlight high-risk groups.
+* Gained insights into employee distribution across age groups, gender, departments, and job roles.
+* Examined how factors such as salary, satisfaction level, working hours, and promotion history influence employee retention.
+* Delivered data-backed strategies to improve employee satisfaction, reduce attrition, and enhance HR decision-making.
+
+
+
 ### 🛒 Supermarket Sales SQL Project
 
 * Analyzed a sample supermarket dataset using PostgreSQL.
