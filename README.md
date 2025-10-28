@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Prosper Nnamudi
 
 **Data Analyst | Transforming messy data into business insights**
-**SQL | Power BI | Excel | Open to internships and remote roles**
+**SQL | Power BI | Excel | Open to opportunities and collaborations**
 
 ---
 
@@ -25,13 +25,15 @@ My journey into tech started with curiosity and a desire to solve problems using
 
 * **SQL** (PostgreSQL, MySQL)
 * **Power BI** (Dashboards, DAX, Data Modeling)
-* **Excel** (Pivot Tables, Charts, Power Query)
+* **Advanced Excel** (Pivot Tables, Charts, Power Query)
+* **Micosoft PowerPoint**
+* **Data Entry**
 
 ### Soft Skills
 
-* Leadership
+* Team collaboration
 * Critical Thinking
-* Time Management
+* Problem solving and analysis
 
 ---
 
