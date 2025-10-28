@@ -23,8 +23,8 @@ My journey into tech started with curiosity and a desire to solve problems using
 
 ### Hard Skills
 
-* **SQL** (PostgreSQL, MySQL)
-* **Power BI** (Dashboards, DAX, Data Modeling)
+* **SQL** (PostgreSQL, SQL Server)
+* **Power BI** (Dashboards, Data Modeling)
 * **Advanced Excel** (Pivot Tables, Charts, Power Query)
 * **Micosoft PowerPoint**
 * **Data Entry**
